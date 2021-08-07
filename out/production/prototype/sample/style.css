@@ -1,0 +1,26 @@
+.button{
+    -fx-font-weight:bold;
+    -fx-background-radius: 22;
+    -fx-font-size:22;
+    -fx-background-color: #d25f2e;
+    -fx-text-fill: white;
+
+}
+.button :hover{
+    -fx-font-weight:bold;
+    -fx-background-radius: 22;
+    -fx-font-size:22;
+    -fx-background-colour:white;
+
+}
+.text-field{
+       -fx-font-weight:bold;
+          -fx-background-radius: 22;
+          -fx-font-size:22;
+          -fx-background-color: #d25f2e;
+          -fx-text-fill: white;
+
+
+
+
+}

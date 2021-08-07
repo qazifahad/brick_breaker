@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #5C246E;" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller2">
+   <children>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="25.0" layoutY="24.0" prefHeight="147.0" prefWidth="554.0" style="-fx-background-color: #993300; -fx-background-radius: 22;" text="Brick Breaker" textFill="WHITE" AnchorPane.bottomAnchor="300.0" AnchorPane.leftAnchor="25.0" AnchorPane.rightAnchor="25.0" AnchorPane.topAnchor="24.0">
+         <font>
+            <Font size="49.0" />
+         </font></Label>
+      <Button layoutX="229.0" layoutY="258.0" mnemonicParsing="false" onMouseClicked="#changeScreen" prefHeight="67.0" prefWidth="155.0" style="-fx-background-color: #993300; -fx-background-radius: 22;" text="PLAY" textFill="WHITE">
+         <font>
+            <Font size="34.0" />
+         </font></Button>
+   </children>
+</AnchorPane>
