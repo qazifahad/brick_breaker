@@ -6,6 +6,7 @@
     -fx-text-fill: white;
 
 }
+/* just for fun */ 
 .button :hover{
     -fx-font-weight:bold;
     -fx-background-radius: 22;
